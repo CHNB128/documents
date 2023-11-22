@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Software developer
+## Software developer / Team Lead
 
 **Name:** Величко Илья Игоревич (Velichko Ilya Igorevich)
 
@@ -80,30 +80,56 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 #### Duties:
 
 - Website development from scratch in PHP, HTML5, CSS3, JavaScript
-- Development of themes and plugins for CMS WordPress, Joomla
+- Development of themes and plugins for CMS's: WordPress, Joomla, Durpal
 - Development of mobile applications for Android on Java (Android Studio) and Delphi (Rad Studio)
-- Search for non-standard problem solutions
+- Search for non-standard problem solutions, researching
 - Creating software for Windows, Linux
-- Development of user interfaces (desktop applications and sites)
-- Tight customer service
+- Development of user interfaces (desktop applications and web applications)
+- Served clients personally
 - Drawing up technical specifications
-- Reducing project prices by optimizing processes
-- Employee training
+- Reducing project prices by personal approach to clients
+- Employee training, team leading
 - Project Management
 - Optimization of business processes of a company: Business analyst
 - Creation of non-standard programs for individual optimization of company processes
-- Employee management CRM
+- Employee management, CRM
+- Hiring and mentoring teammates
+- Administration of hostings
+- MySQL, MariaDB administration
+- Technical support
+
+#### Stack:
+
+- PHP
+- MySQL, MariaDB
+- PhpMyAdmin
+- Android studio (Java)
+- Delphi (Rad Studio)
+- Linux (Shell), Windows
+- Virtual hosting
+- WordPress
+- Joomla
+- Durpal
+- CSS3, HTML, JavaScript
+- Nginx
+- Apache
 
 #### Features:
 
+- A lot of expirience
 - Overtime work
 - Mentoring
-- Complicated team communication
+- Close team communication
+- Interesting problems
+- Non standard environment
 - Work with customers
 - Work as sales as part-time job
+- Work as top manager as part-time job
+- Work as technical support as part-time job
 
 #### Cause of dismissals:
 
+- I resigned of my own free will
 - Gray business
 - Low income
 
@@ -125,32 +151,58 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 - Writing Back-end on Clojure, Java, Node.js
 - Creation of micro services
-- Work with Webpack
+- Manage custom Webpack builds
 - Working with the Git
 - Organization of workflow Trello
 - Support for existing systems
 - Development of web interfaces on VueJs, JavaScript (ES6+), Sass, Pug
 - Development of ClojureScript web interfaces
-- Administration of the PostgresSql
-- Development of database architecture
+- Administration of the PostgresSql (SQL)
+- Development of database architecture (DQL)
 - Generate reports for database on psql
-- System administration
+- System administration (Linux, RedHat)
 - Interaction with the project manager to adjust goals
 - Prototyping software architecture
 - Writing Shell scripts to optimize the process of development
 - Development of the company’s application architecture
-- Work with Docker
+- Work with Docker (Swarm)
+
+#### Stack:
+
+- Clojure
+- ClojureScript
+- PostgresSql
+- Psql
+- Linux (Debian, RedHat)
+- Vue
+- JavaScript (ES6+)
+- Sass
+- Pug
+- Docker (Swarm)
+- docker-compose
+- Shell
+- Git
+- Trello
+- Node.js
+- Redis
+- SmallWorld
+- Magic
+- Nginx
 
 #### Features:
 
-- Work with telecommunications
+- Interesting work with telecommunications
 - Interesting projects
 - Good team
+- Good team lead
+- A lot of expirience
+- Vacation, medical service
 
 #### Cause of dismissals:
 
+- I resigned of my own free will
 - Low salary
-- Non-standardized terms
+- Disagreements in architectural decisions
 
 ### Team of Game Developers
 
@@ -164,15 +216,34 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 #### Duties:
 
-- Development and integration of systems for the game engine
-- The implementation of the sound system
-- Development on the language: Deplhi, C++
-- Implementation of the special system. effects (particle system)
+- Implementation of the sound system, particle system, physics engine
+- Used languages: Deplhi, C++
 - Interface development
 - Work with graphics
 - Conduct team fees to adjust the direction of development
-- Development physics engine
 - Project development management (Git, Trello)
+
+#### Stack:
+
+- C++
+- C
+- Lua
+- Delphi (Rad Studio)
+- OpenAl
+- Git
+- Trello
+
+#### Features:
+
+- Interesting work
+- Non standard project
+- Good research expirience
+- Nice team
+- A lot of expirience
+
+#### Cause of dismissals:
+
+- Project was close by initiative of creator
 
 ### WooCurve
 
@@ -184,18 +255,28 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 **Period:** August 2018 - January 2019
 
-**Position:** Technical Support Developer
+**Position:** Technical support, Software developer
 
 #### Duties:
 
-- Solution of technical support issues
-- Development of additional functionality for cms WordPress in PHP
-- Search and correction of errors in the established company
+- Solution for technical issues
+- Development of WordPress modules in PHP
+- Search and correction of errors
 - Accompanying available progress reports to optimize development processes
-- Work on the system Pomodoro
+- Work by Pomodoro system
 - Organization of work Trello, Slack, Git
 - Close work with clients.
-- Project development management through Git, Trello
+
+#### Stack:
+
+- PHP
+- Trello
+- Slack
+- Git
+- WordPress
+- Nginx
+- Apache
+- Docker
 
 #### Features:
 
@@ -224,24 +305,37 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 #### Duties:
 
-- Completion and creation of modules for cms DLE site on PHP7
+- Support and development of modules for cms DLE, on PHP7
 - Building site architecture
-- Database Administration
-- Building a database architecture
-- Web Interface Design
-- Creation of web interfaces HTML, CSS, JavaScript (ES6+)
+- Database Administration (MySQL, MariaDB)
+- Building a database architecture (DQL)
+- Web Interface Design, HTML, CSS, JavaScript (ES6+)
 - Integration of third-party services
 - Work with Apache, Nginx
 - Work with assembly Gulp, Webpack.
 - Project development management (Git, Trello)
 
+#### Stack:
+
+- PHP
+- MySQL, MariaDB
+- DLE
+- PhpMyAdmin
+- Gulp
+- Webpack
+- Git
+- Trello
+- HTML, CSS, JavaScript (ES6+)
+- Nginx
+- Apache
+
 #### Features:
 
-- Leagacy support and development
+- Support and development on leagacy system
 
 #### Cause of dismissals:
 
-- Project was close up
+- Project was close
 
 ### Almaty Web Studio
 
@@ -276,10 +370,10 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 #### Duties:
 
-- Execution of tasks on time
+- Strict deadlines
 - Support existed system
-- Development new features
-- Client communication
+- Development new features for sites
+- Custom support
 - Administration of linux-like systems
 - Support high load systems
 - Optimization high load system
@@ -287,25 +381,45 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 - Work with Redis database
 - Rapid development
 - Reverse engineering
-- Telepathic services
 - Development web service on PHP (Laravel, CodeIgniter, YII)
 - Development SPA application on VueJs
-- Development backed side on NodeJs
+- Development backend on NodeJs
 - Nginx configuration
 - Consultation
 - Project development management (Git, Trello)
+
+#### Stack:
+
+- Vue
+- Node.js
+- WordPress
+- Laravel
+- CodeIgniter
+- YII
+- Git
+- Trello
+- PHP
+- MySQL
+- PhpMyAdmin
+- Redis
+- Linux
+- Virtual hosting
+- Let's Encrypt
+- Nginx
+- Apache
 
 #### Features:
 
 - Overtime work
 - Strict work schedule
 - Small team
-- Interesting development obstacles
+- Interesting tasks
+- High load applications
 - A lot of expirience
 
 #### Cause of dismissals:
 
-- Unexpected dismissals without of reason
+- Company was closed up
 
 ### Profit Center
 
@@ -332,14 +446,26 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 - Building site architecture
 - Web Interface Design
 - Build microservice on PHP
-- Creation of web interfaces HTML, SCSS, JavaScript (React)
+- Creation of web interfaces HTML, SCSS, JavaScript, React
 - Integration of third-party services
 - Work with assembly Gulp, Webpack.
 - Project management (Git, Trello)
 
+#### Stack:
+
+- PHP
+- Git
+- Trello
+- HTML, CSS, JavaScript
+- React
+- Gulp
+- Webpack
+- Node.js
+- Apache
+- Nginx
+
 #### Features:
 
-- Complicated team communication
 - Overtime work
 - Big team
 - High load applications
@@ -347,7 +473,6 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 #### Cause of dismissals:
 
 - Own wish
-- Didn't like the tech stack
 
 ### Playstage (Own startup)
 
@@ -363,13 +488,17 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 **Scope:** Game web service
 
+#### Description:
+
+We was trying to make streaming service with betting on games streamers playing and paid actions during stream.
+
 #### Duties:
 
 - Backend development on Clojure
 - Frontend development on Vue
 - Write integrational, unit, end-to-end testing
-- Database administration
-- Building a database architecture on Postgres
+- Database administration (PostgresSql)
+- Building a database architecture
 - Web Interface Design
 - Linux administration
 - Integration of third-party services
@@ -380,16 +509,200 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 - Organisation deploy of service with Docker, Kubernetes
 - Project management (Git, Trello)
 
+#### Stack:
+
+- Vue
+- Clojure
+- Payer
+- Node.js
+- Postgres
+- MaterialUI
+- Docker (Swarm)
+- docker-compose
+- docker-machine
+- Kubernetes
+- Let's Encrypt
+- Nginx
+
 #### Features:
 
-- No salary :0
 - Tight deadlines
 - Full responsibility
 - Payment system expirience
 
 #### Cause of dismissals:
 
-- Didn't succeed
+- Project was closed up
+
+### Online kino torrent (Own startup)
+
+**Location:** Kazakhstan/Almaty
+
+**Position:** Tech director (CTO)
+
+**Period:** ???
+
+**Scope:** Web service
+
+#### Description:
+
+We were trying to make a service to stream cinema and series on various websites by torrent protocol to reduce load on service and provide better streaming experience for customers.
+
+#### Duties:
+
+- Development of web player to integrate with third-party services
+- Development of web interface for internal monitoring (Admin panel)
+- Development monitoring system to monitor internal storage with video and see torrent load on all connected nodes
+- Development of internal storage to have first seed in seed chain and source managment
+- Development of desktop service to upload and download video from desktop to web service in background, without browser interaction
+- Development UI and UX for web and descktop interfaces
+- Administration of high load microservice system in cloud
+- Administration of PostgresSql DBMS
+- Administration of own cloud (Docker swarm)
+- Integration of third-party service for monitoring, torrent
+- Implementation of unit and e2e testing
+- Building project architecture
+- Building up database architecture
+- Drawing up technical specifications
+
+#### Stack:
+
+- Node.js
+- Docker
+- docker-compose
+- docker-machine
+- Docker swarm
+- Vue
+- React
+- HTML, CSS, JavaScript
+- WebTorrent
+- Torrent
+- Zabbix
+- Prisma
+- PostgresSql
+- Redis
+
+#### Features:
+
+- Tight deadlines
+- Full responsibility
+- Deep dive into torrent protocol
+
+#### Cause of dismissals:
+
+- Project was closed up
+
+### StepToday (Own startup)
+
+**Company name:** StepToday
+
+**Location:** Kazakhstan/Almaty
+
+**Position:** Tech director (CTO)
+
+**Period:** ???
+
+**Scope:** Web service
+
+#### Description:
+
+This was project to automate education process. Project should was contain education materials, test and self control examinations, diary, rating system, payments and licence managment system for teachers.
+
+#### Duties:
+
+- Development of frontend and backend for education platform
+- Building microservice architecture
+- Manage unit and e2e tests
+- Manage cloud cluster
+- Administration of cloud (swarm)
+- Management of database cluster (PostgresSql)
+- Development of UI and UX design
+- Drawing up technical specifications
+- Building up database architecture
+- Implementation of own UI library
+
+#### Stack:
+
+- Vue
+- React
+- Java
+- Kotlin
+- Docker
+- docker-compose
+- docker-machine
+- Docker swarm
+- Node.js
+- Python
+- HTML, CSS, JavaScript
+- PostgresSql
+- Redis
+- Cypress
+
+#### Features:
+
+- Tight deadlines
+- Full responsibility
+- Deep dive into education industry
+
+#### Cause of dismissals:
+
+- Project was closed up
+
+### Cream (Own startup)
+
+**Company name:** Cream
+
+**Location:** Kazakhstan/Almaty
+
+**Position:** Tech director (CTO)
+
+**Period:** January 2021 - October 2023
+
+**Scope:** Web service
+
+#### Description:
+
+This project was aim to automate business process, should was contain inventarisation for products with automative supply acceptance and suggestions for futher destribution, price calculation for products based on delivery information and considering currency changes, crm and cms system, user managment (RBAC), own file storage (S3 based), trello like functional and more.
+
+#### Duties:
+
+- Development of frontend and backend
+- Building microservice architecture
+- Manage cloud cluster
+- Manage unit and e2e tests
+- Administration of cloud (swarm)
+- Management of database cluster (PostgresSql)
+- Development of UI and UX design
+- Drawing up technical specifications
+- Setting up and support of DevOps system
+- Integration of third-party services
+- Building up database architecture
+- Implementation of own UI library
+
+#### Stack:
+
+- React
+- HTML, CSS, JavaScript
+- Prisma
+- Jest
+- PostgresSql
+- Redis
+- Docker
+- docker-compose
+- Docker swarm
+- Drone.io
+- Typescript
+- Cypress
+
+#### Features:
+
+- Tight deadlines
+- Full responsibility
+- Deep dive into commodity business
+
+#### Cause of dismissals:
+
+- Project was closed up
 
 ### Urbest
 
@@ -403,7 +716,7 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 **Scope:** Service Development
 
-**Position:** Web/Mobile developer
+**Position:** Web developer / Head of mobile development
 
 **Application area:** Facility management
 
@@ -418,9 +731,33 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 - Took part in the design development
 - Mobile development (IOS, Android, ReactNative)
 - Project optimization
-- Integration of third-party services Google
+- Integration of third-party services: Google
 - Integration payment system (Stripe)
 - Investigation and reverse engineering
+- Took part in hirring process
+- Implementation of own UI library
+
+#### Stack:
+
+- Github
+- Clojure
+- ClojureScript
+- React
+- Node.js
+- PostgresSql
+- Nginx
+- Apache
+- Git
+- Google
+- AWS
+- Docker
+- Kubernetes
+- docker-compose
+- Cypress
+- Figma
+- ReactNative
+- IOS, Android
+- Stripe
 
 #### Features:
 
@@ -449,15 +786,39 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 #### Duties:
 
-- DevOps
+- Maintain continious development pipe line
+- Maintain own git server (Gitea)
 - Development of sites and landing pages
 - Development services by customers needs
 - Maintain own cloud infrostucture (Docker swarm)
 - Employee training
 - Management of human resource
-- Making a sales
+- Making sales
 - Seting up monitoring/loging cloud system
 - Working with volunteers
+
+#### Stack:
+
+- Vue
+- React
+- HTML, CSS, JavaScript
+- Node.js
+- PostgresSql
+- Redis
+- Python
+- Docker
+- Docker swarm
+- docker-compose
+- Shell
+- Supabase
+- Directus
+- WordPress
+- Traefik
+- Drone.io
+- Gitea
+- Gitlab
+- Github
+- Git
 
 #### Features:
 
