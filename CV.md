@@ -4,15 +4,19 @@
 
 **Name:** Величко Илья Игоревич (Velichko Ilya Igorevich)
 
+**Nation:** Russian
+
 **Sex:** Male
 
-**Date of birth:** 5th of September 1995
+**Date of birth:** 5th of September 1999
 
 **Current location:** Kazakhstan/Almaty
 
 ### Contacts:
 
-- Mobile: +7 (708) 246-26-27 (Telegram, WhatsApp)
+Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
+
+- Mobile: +7(708)246-26-27 (Telegram, WhatsApp)
 - Mail: drake.aren@pm.me (preferred)
 
 ### Socials:
@@ -41,6 +45,8 @@
 
 - English (conversational, professional)
 - Russian (native)
+- Kazakh (beginner)
+- Chinese (beginner)
 
 ### Professional skills:
 
@@ -48,7 +54,7 @@
 - Preferred extreme programming
 - Quickly deal with new things
 - Knowledge of functional paterns
-- Knowledge of OOP / OOP paterns
+- Knowledge of OOP and OOP paterns
 - Git base work flow
 - Linux administration
 - Neural network expirience
