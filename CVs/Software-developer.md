@@ -12,6 +12,8 @@
 
 **Current location:** Kazakhstan/Almaty
 
+### About me:
+
 ### Contacts:
 
 Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
