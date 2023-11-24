@@ -55,7 +55,7 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
 ### Professional skills:
 
-- Knowledge of algorithm and data structures
+- Knowledge of algorithms and data structures
 - Preferred extreme programming
 - Quickly deal with new things
 - Knowledge of functional paterns
@@ -63,11 +63,12 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 - Git base work flow
 - Linux administration
 - Neural network expirience
-- DevOps skills
+- DevOps skills (Clouds, CI/CD, Git flow)
 - Penetration testing experience
-- Web and Mobile design expirience
+- Web and Mobile UI and UX design expirience
 - Project management
 - Stress resistant
+- Executive 
 - Honesty
 
 ## Places of work
