@@ -31,6 +31,7 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 - https://www.npmjs.com/~d.a.nelson
 - https://www.codewars.com/users/d.a.nalson
 - https://www.instagram.com/velichko050999
+- https://t.me/velichko050999
 
 ### Employment:
 
