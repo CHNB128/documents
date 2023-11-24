@@ -1,63 +1,67 @@
-# Hi there 👋
+# Software developer / Team Lead
 
-## Software developer / Team Lead
-
-**Name:** Величко Илья Игоревич (Velichko Ilya Igorevich)
+**Name:** Velichko Ilya Igorevich (Величко Илья Игоревич)
 
 **Nation:** Russian
 
 **Sex:** Male
 
-**Date of birth:** 5th of September 1999
+**Date of birth:** 5th of September, 1999
 
 **Current location:** Kazakhstan, Almaty
 
-### About me:
+**Schedule:** flexible, full day, shift schedule
 
-Couple words about me. I am a nice guy from the middle east. In love with active sports, yoga, and boarding. Do martial arts to improve personal will. Do have a strict schedule. I use kaizen to improve my personal life. I take every task earnestly and think that it's the only way to feel pride about myself while looking into the mirror. I love psychology and to help people to know what they really want and archive the real goal.
+**Employment:** project work, part-time, full-time, remote
 
-### Contacts:
+## Contacts:
 
 Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 
-- Mobile: +7(708)246-26-27 (Telegram, WhatsApp)
-- Mail: drake.aren@pm.me (preferred)
+- Mobile: [+7(708)246-26-27](tel:87082462627) ([Telegram](https://t.me/velichko050999), [WhatsApp](https://wa.me/87082462627))
+- Mail: [drake.aren@pm.me](mailto:drake.aren@pm.me) (preferred)
 
-### Socials:
+## Socials:
 
-- https://github.com/CHNB128
-- https://gitlab.com/Drake.aren
-- https://stackshare.io/CHNB128
-- https://www.npmjs.com/~d.a.nelson
-- https://www.codewars.com/users/d.a.nalson
-- https://www.instagram.com/velichko050999
-- https://t.me/velichko050999
+- [Github](https://github.com/CHNB128)
+- [Gitlab](https://gitlab.com/Drake.aren)
+- [stackshare.io](https://stackshare.io/CHNB128)
+- [NPM](https://www.npmjs.com/~d.a.nelson)
+- [Codewars](https://www.codewars.com/users/d.a.nalson)
+- [Instagram](https://www.instagram.com/velichko050999)
 
-### Employment:
+## About me:
 
-- project work
-- part-time
-- full-time
-- remote
+Couple words about me. I am a nice guy from the middle east.
+In love with active sports, yoga, and snowboarding.
+Do martial arts to improve personal will. Do have a strict schedule.
+I use kaizen to improve my personal life.
+I take every task earnestly and think that it's the only way to feel
+pride about myself while looking into the mirror.
+I love psychology and to help people to know what they really
+want and archive the real goal.
 
-### Schedule:
-
-- flexible
-- full day
-- shift schedule
-
-### Languages:
+## Languages:
 
 - English (conversational, professional)
 - Russian (native)
 - Kazakh (beginner)
 - Chinese (beginner)
 
-### Professional skills:
+## Soft skills:
+
+- Do have a schedule
+- Getting work done
+- Do know about subjective opinion
+- Quickly deal with new things
+- Stress resistant
+- Executive
+- Honesty
+
+## Professional skills:
 
 - Knowledge of algorithms and data structures
 - Preferred extreme programming
-- Quickly deal with new things
 - Knowledge of functional paterns
 - Knowledge of OOP and OOP paterns
 - Git base work flow
@@ -67,9 +71,6 @@ Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
 - Penetration testing experience
 - Web and Mobile UI and UX design expirience
 - Project management
-- Stress resistant
-- Executive 
-- Honesty
 
 ## Places of work
 
