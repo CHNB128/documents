@@ -10,7 +10,7 @@
 
 **Date of birth:** 5th of September 1999
 
-**Current location:** Kazakhstan/Almaty
+**Current location:** Kazakhstan, Almaty
 
 ### About me:
 
