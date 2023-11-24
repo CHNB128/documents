@@ -14,6 +14,8 @@
 
 ### About me:
 
+Couple words about me. I am a nice guy from the middle east. In love with active sports, yoga, and boarding. Do martial arts to improve personal will. Do have a strict schedule. I use kaizen to improve my personal life. I take every task earnestly and think that it's the only way to feel pride about myself while looking into the mirror. I love psychology and to help people to know what they really want and archive the real goal.
+
 ### Contacts:
 
 Available for contact: 08:00 - 17:00 Kazakhstan, Almaty
